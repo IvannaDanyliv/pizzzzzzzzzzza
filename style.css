@@ -1,0 +1,424 @@
+.f{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 322px;
+height: 328px;
+left: 41px;
+top: 340px;
+
+background: url(image.png);
+border-radius: 15px 15px 0px 0px;
+
+}
+.r{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 322px;
+height: 322px;
+left: 469px;
+top: 340px;
+
+background: url(image.png);
+border-radius: 15px 15px 0px 0px;
+
+}
+.rr{/* Rectangle 16 */
+
+    position: absolute;
+    width: 322px;
+    height: 328px;
+    left: 41px;
+    top: 926px;
+    
+    background: url(image.png);
+    border-radius: 15px 15px 0px 0px;
+    }
+.rrr{
+/* Rectangle 21 */
+
+position: absolute;
+width: 322px;
+height: 328px;
+left: 469px;
+top: 925px;
+
+background: url(image.png);
+border-radius: 15px 15px 0px 0px;
+
+}
+h4{/* Rectangle 5 */
+
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 162px;
+    height: 66px;
+    left: 40px;
+    top: 246px;
+    
+    background: #202020;
+    border: 2px solid #FF9900;
+    border-radius: 15px;
+    /* За замовчування */
+
+position: absolute;
+width: 137px;
+height: 19px;
+left: 53px;
+top: 269px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+    }
+    body{
+        /* Rectangle 6 */
+
+position: absolute;
+width: 834px;
+height: 5188px;
+left: 1px;
+top: 96px;
+
+background: #393939;
+
+    }
+    .t{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 41px;
+top: 746px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .tt{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 47px;
+left: 469px;
+top: 739px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .ttt{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 41px;
+top: 1332px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .tttt{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 469px;
+top: 1331px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .p{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 54px;
+top: 807px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+    }
+    .pp{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 24px;
+left: 482px;
+top: 799px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .ppp{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 54px;
+top: 1393px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+    }
+    .pppp{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 482px;
+top: 1392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+    }
+    .u{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 285px;
+top: 813px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+    }
+    .uu{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 15px;
+left: 713px;
+top: 805px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+    }
+    .uuu{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 285px;
+top: 1399px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+    }
+    .uuuu{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 713px;
+top: 1398px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+    }
+    h1{/* Комбо */
+
+        position: absolute;
+        width: 139px;
+        height: 77px;
+        left: 348px;
+        top: 169px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 48px;
+        
+        color: #FFFFFF;
+        
+        }
+        .q{
+            /* Комбо Тижня */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 53px;
+top: 668px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        .qq{
+            /* Комбо s */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 481px;
+top: 662px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        .qqq{
+            /* Комбо Тижня */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 53px;
+top: 1254px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        .qqqq{
+            /* Комбо Тижня */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 481px;
+top: 1253px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
